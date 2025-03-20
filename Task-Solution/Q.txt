@@ -1,0 +1,14 @@
+Q1:-
+A class is a blueprint or template that defines properties (fields) and behaviors (methods).
+
+An object is an instance of a class that holds actual data and can perform actions defined in the class.
+---------------------------
+
+Q2:-
+Getters: allow controlled access to private fields.
+Setters: control how values are assigned, enabling validation or additional logic before updating a field.
+---------------------------
+
+Q3:-
+Public: The member is accessible from anywhere in the program.
+Private: The member is only accessible within the same class, ensuring encapsulation and data hiding.
